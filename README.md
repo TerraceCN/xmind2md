@@ -2,6 +2,10 @@
 
 Convert xmind file to markdown
 
+## DEPRECATED
+
+Use [xmind_loader](https://github.com/TerraceCN/xmind_loader) Instead
+
 ## Usage
 
 ```shell
